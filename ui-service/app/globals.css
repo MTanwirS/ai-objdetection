@@ -1,0 +1,14 @@
+body, h1, main {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif;
+  overflow: auto;
+}
+
+header{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
