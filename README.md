@@ -48,7 +48,7 @@ Before you start, make sure you have the following installed:
 
 ## Clone the repository
 ```bash
-git clone [https://github.com/MTanwirS/](https://github.com/MTanwirS/ai-objdetection.git)
+git clone https://github.com/MTanwirS/ai-objdetection.git
 cd ai-objdetection
 ```
 
