@@ -46,6 +46,12 @@ Before you start, make sure you have the following installed:
 
 **Upload the image to get the object detection result**
 
+## Clone the repository
+```bash
+git clone [https://github.com/MTanwirS/](https://github.com/MTanwirS/ai-objdetection.git)
+cd ai-objdetection
+```
+
 ## Install and run using Docker
 
 You can build and run both services using Docker Compose with the following command in the `ai-micro` folder:
@@ -78,11 +84,6 @@ docker stop AI-app
 
 ### Install dependencies for the frontend (Next.js)
 
-Clone the repository
-```bash
-git clone https://github.com/MTanwirS/
-cd 
-```
 
 Navigate to the `ui-service` directory and install the dependencies.
 

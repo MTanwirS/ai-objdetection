@@ -7,8 +7,8 @@ This component provides a frontend interface for uploading images and displaying
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/MTanwirS/
-    cd 
+    git clone [https://github.com/MTanwirS/](https://github.com/MTanwirS/ai-objdetection.git)
+    cd ai-objdetection
     ```
 2. Install the dependencies:
     ```bash
